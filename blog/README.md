@@ -1,23 +1,8 @@
-### 如何使用
+# 说明
 
-> 依赖`gitbook`
+原地址：https://github.com/laihuamin/JS-total
 
-```bash
-$ git clone https://github.com/pelligit/JS-total.git
-
-$ cd JS-total && npm install
-
-# 开启本地服务器查看内容
-$ npm start
-
-# 构建静态HTML文件
-$ npm run build
-
-# 构建完成后，在dist目录下就是可以直接运行的HTML文件
-```
-
-
-以下是原仓库中的`README.md`文件内容
+以下是原仓库的`readme.md`文件内容
 
 ---
 
@@ -152,3 +137,4 @@ $ npm run build
 #### 项目
 
 ##### [编写一个分析代码依赖的工具（一）](blog/编写一个分析代码依赖的工具（一）.md)
+

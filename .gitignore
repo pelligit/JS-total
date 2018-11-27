@@ -1,5 +1,3 @@
-image
-
 ceshi.js
 
 js知识点1.gliffy
@@ -7,3 +5,7 @@ js知识点1.gliffy
 node_modules/
 
 package-lock.json
+
+_book
+dist
+*/_book
