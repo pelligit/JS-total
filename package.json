@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "gitbook serve --port 9090",
+    "start": "gitbook serve blog --port 9090 --watch",
     "build": "gitbook build blog dist"
   },
   "repository": {

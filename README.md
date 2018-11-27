@@ -9,6 +9,7 @@ $ cd JS-total && npm install
 
 # 开启本地服务器查看内容
 $ npm start
+# 在浏览器中打开：locahost:9090
 
 # 构建静态HTML文件
 $ npm run build
